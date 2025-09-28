@@ -3,12 +3,12 @@
  */
 
 #define PIN_SWG A0
-#define PIN_BREMSEN 3
-#define PIN_SIFA 2
-#define PIN_SS_1 4
-#define PIN_SS_0 5
-#define PIN_SS_V 6
-#define PIN_ENTKUPPELN 7
+#define PIN_BREMSEN 6
+#define PIN_SIFA 7
+#define PIN_SS_1 5
+#define PIN_SS_0 4
+#define PIN_SS_V 3
+#define PIN_ENTKUPPELN 2
 
 
 void setup() {
